@@ -13,7 +13,6 @@ secrets/
 *.pem
 
 # Archivos de datos
-*.csv
 *.xls
 *.xlsx
 *.json
