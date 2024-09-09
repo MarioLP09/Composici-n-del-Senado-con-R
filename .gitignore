@@ -1,0 +1,51 @@
+# Archivos de configuración y datos sensibles
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+*.RData
+*.env
+*.secret
+config/
+credentials/
+secrets/
+*.key
+*.pem
+
+# Archivos de datos
+*.csv
+*.xls
+*.xlsx
+*.json
+*.sqlite
+*.db
+
+# Archivos de logs
+*.log
+logs/
+*.out
+
+# Directorios de caché y temporales
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Archivos generados
+*.pdf
+*.docx
+*.pptx
+*.jpg
+*.png
+
+# Otros archivos y carpetas específicos
+node_modules/
+venv/
+.env
+.env.local
+.idea/
+.vscode/
+*.iml
